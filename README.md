@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oluwatosin Kupolati</h1>
-<h3 align="center">Enthusiastic backend developer who loves building!</h3>
+<h3 align="center">Enthusiastic backend developer who loves building</h3>
 
-- 🔭 I’m currently working on **some Node.js projects**
+- 🔭 I’m currently working on **Node.js projects**
 
 - 🌱 I’m currently learning **TypeScript and PostgreSQL**
 
