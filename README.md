@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Oluwatosin</h1>
-<h3 align="center">I am a backend developer passionate about software development</h3>
+<h3 align="center">I am a backend developer</h3>
 
 - 🔭 I’m currently working on **Node.js projects**
 
