@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on **Node.js projects**
 
-- 🌱 I’m currently learning **TypeScript and PostgreSQL**
-
-- 👯 I’m looking to collaborate on **Node.js projects**
+- 🌱 I’m currently learning **TypeScript, FastAPI and PostgreSQL**
 
 - 💬 Ask me about **JavaScript, TypeScript, Python, Node.js, Express.js**
 
