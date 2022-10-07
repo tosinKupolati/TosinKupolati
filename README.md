@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm Oluwatosin</h1>
 
-- 🔭 I’m currently working on **Node.js projects**
+- 🔭 I’m a developer currently working on **Node.js projects**
 
-- 🌱 I’m currently learning **TypeScript, FastAPI and PostgreSQL**
+- 🌱 I’m also currently learning **TypeScript, FastAPI and PostgreSQL**
 
-- 💬 Ask me about **JavaScript, TypeScript, Python, Node.js, Express.js**
-
-- 📫 How to reach me **kupolatioluwatosin@gmail.com**
+- 💬 You can ask me about **JavaScript, TypeScript, Python, Node.js, Express.js**
 
 - ⚡ Fun fact **I love watching documentaries**
 
