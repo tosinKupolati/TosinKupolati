@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Oluwatosin</h1>
+<h1 align="center">Hi 👋, I'm Oluwatosin</h1>
 <h3 align="center">I am a backend developer</h3>
 
 - 📫 You can reach me via email at **kupolatioluwatosin@gmail.com**
 
-- ⚡ Fun fact **I love watching documentaries**
+- ⚡ Fun fact **I love reading books and watching documentaries**
 
 <p align="left">
 </p>
