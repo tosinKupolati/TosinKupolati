@@ -1,6 +1,5 @@
-<h1 align="center">Hello 👋, I'm Tosin</h1>
-<h3 align="center">A Software Engineer with a specialty in Backend and DevOps</h3>
+<h1 align="center">Hello 👋, I'm Tosin and I am a software engineer</h1>
 
-- 📫 How to reach me **kupolatioluwatosin@gmail.com**
+- 📫 You can reach me at **kupolatioluwatosin@gmail.com**
 
 - ⚡ Motto - **learn a little everyday**
